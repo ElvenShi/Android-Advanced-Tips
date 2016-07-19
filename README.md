@@ -16,7 +16,7 @@
 | Android性能优化 | [Android性能优化](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20performance%20optimization/Android_PO.md) |
 
 
-## 优秀博客推荐
+## **优秀博客推荐**
 1. [张涛-开源实验室](http://kymjs.com/)
 2. [张鸿洋的博客](http://blog.csdn.net/lmj623565791/article/category/2210589)
 3. [一叶扁舟](http://blog.csdn.net/jdsjlzx/article/category/844737)
@@ -27,3 +27,4 @@
 8. [尼古拉斯_赵四](http://blog.csdn.net/jiangwei0910410003?viewmode=contents)
 
 
+*[Android开发实践总结](https://github.com/zeng1990java/android-practice-tips#android开发tips)*
