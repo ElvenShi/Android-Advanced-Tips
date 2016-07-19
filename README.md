@@ -26,5 +26,7 @@
 7. [java之美](http://blog.csdn.net/zhangerqing?viewmode=contents)
 8. [尼古拉斯_赵四](http://blog.csdn.net/jiangwei0910410003?viewmode=contents)
 
+## ------
+*[极客导航](http://www.jikedaohang.com/)*
 
 *[Android开发实践总结](https://github.com/zeng1990java/android-practice-tips#android开发tips)*
