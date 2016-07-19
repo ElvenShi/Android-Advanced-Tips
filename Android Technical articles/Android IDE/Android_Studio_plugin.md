@@ -9,7 +9,7 @@ Android ButterKnife Zelezny
 
 ### 插件汇总
 
-1. *ButterKnife是一个专注于Android系统的View注入框架,可以减少大量的findViewById以及setOnClickListener代码，可视化一键生成*
+**ButterKnife是一个专注于Android系统的View注入框架,可以减少大量的findViewById以及setOnClickListener代码，可视化一键生成**
 
 插件下载地址：https://plugins.jetbrains.com/plugin/7369?pr=androidstudio
 
@@ -20,7 +20,7 @@ Android ButterKnife Zelezny
 推荐指数：五星
 
 
-2. *GsonFormat*
+**GsonFormat**
 
 GsonFormat是一个快速格式化json数据,自动生成实体类参数的插件。
 
@@ -32,7 +32,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 
 推荐指数：四星
 
-3. *Android Drawable Importer*
+**Android Drawable Importer**
 
 为了适应所有Android屏幕的大小和密度，每个Android项目都会包含drawable文件夹。任何具备Android开发经验的开发人员都知道，为了支持所有的屏幕尺寸，你必须给每个屏幕类型导入不同的画板。Android Drawable Importer插件能让这项工作变得更容易。它可以减少导入缩放图像到Android项目所需的工作量。Android Drawable Importer添加了一个在不同分辨率导入画板或缩放指定图像到定义分辨率的选项。这个插件加速了开发人员的画板工作。
 
@@ -44,7 +44,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 
 推荐指数：三星
 
-4. *android-selector-chapek / SelectorChapek for Android*
+**android-selector-chapek / SelectorChapek for Android**
 
 根据资源自动生成相应的selector。
 
@@ -55,7 +55,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：四星
 
 
-5. *Android Parcelable code generator*
+**Android Parcelable code generator**
 
 快速实现Parcelable接口的插件。
 
@@ -68,7 +68,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：四星
 
 
-6. *Markdown support Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过类似HTML的标记语法，它可以使普通文本内容具有一定的格式*
+**Markdown support Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过类似HTML的标记语法，它可以使普通文本内容具有一定的格式**
 
 插件下载地址：https://plugins.jetbrains.com/plugin/7793
 
@@ -77,7 +77,8 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：四星
 
 
-7. Markdown Navigator 一款Markdown插件，是https://github.com/nicoulaj/idea-markdown他的一个分支，但是主项目由于维护的原因已经从jetbrains中删除了，如果想了解主项目的也可以通过上面的github地址进行了解。
+**Markdown Navigator**
+一款Markdown插件，是https://github.com/nicoulaj/idea-markdown他的一个分支，但是主项目由于维护的原因已经从jetbrains中删除了，如果想了解主项目的也可以通过上面的github地址进行了解。
 
 插件下载地址：https://plugins.jetbrains.com/plugin/7896?pr=
 
@@ -86,7 +87,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：四星
 
 
-8. *Android Postfix completion*
+**Android Postfix completion**
 
 可根据后缀快速完成代码。
 
@@ -97,7 +98,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：五星
 
 
-9. *AndroidAccessors*
+**AndroidAccessors**
 
 快速实现get和set方法的插件。
 
@@ -108,7 +109,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：三星
 
 
-10. *Lifecycle Sorter*
+**Lifecycle Sorter**
 
 可以根据Activity或者fragment的生命周期对其生命周期方法位置进行先后排序。
 
@@ -119,7 +120,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数：五星
 
 
-11. *ADB WIFI 无需root就能wifi调试*
+**ADB WIFI 无需root就能wifi调试**
 
 插件下载地址：https://plugins.jetbrains.com/plugin/7856?pr=
 
@@ -128,7 +129,7 @@ GsonFormat是一个快速格式化json数据,自动生成实体类参数的插�
 推荐指数： 五星
 
 
-12. *ADB Idea*
+**ADB Idea**
 
 adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App Data、Clear App Data and Restart 
 
@@ -139,7 +140,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：五星
 
 
-13. *Android WiFiADB*
+**Android WiFiADB**
 
 无线调试应用
 
@@ -150,7 +151,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：五星
 
 
-14. *CodeGlance*
+**CodeGlance**
 
 最大的用途：可用于快速定位代码。
 
@@ -161,7 +162,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：五星
 
 
-15. *JSONOnlineViewer*
+**JSONOnlineViewer**
 
 可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示
 
@@ -170,7 +171,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：四星
 
 
-16. *FindBugs-IDEA*
+**FindBugs-IDEA**
 
 通过FindBugs帮你找到隐藏的bug及不好的做法。
 
@@ -181,7 +182,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：四星
 
 
-17. *jimu Mirror*
+**jimu Mirror**
 
 这是一个可以让你在真实的设备上迅速测试布局的插件。jimu Mirror允许在设备上预览随同编码更新的Android布局。 
 
@@ -192,7 +193,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：四星
 
 
-18. *JavaDoc*
+**JavaDoc**
 
 添加注释，可自定义模板。
 
@@ -203,7 +204,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数： 五星
 
 
-19. *Android strings.xml tools*
+**Android strings.xml tools**
 
 可以用来管理Android项目中的字符串资源。它提供了排序Android本地文件和添加缺少的字符串的基本操作。虽然这个插件是有限制的，但如果应用程序有
 
@@ -216,7 +217,7 @@ adb 调试工具,Uninstall App、Kill App、Start App、Restart App、Clear App 
 推荐指数：五星
 
 
-20. *Robotium Recorder*
+**Robotium Recorder**
 
 Robotium Recorder是一个自动化测试框架，用于测试在模拟器和Android设备上原生的和混合的移动应用程序。Robotium 
 
@@ -229,7 +230,7 @@ Recorder可以让你记录测试案例和用户操作。你也可以查看不同
 推荐指数：四星
 
 
-21. *Android Holo Colors Generator*
+**Android Holo Colors Generator**
 
 通过自定义Holo主题颜色生成对应的Drawable和布局文件
 
@@ -240,7 +241,7 @@ Recorder可以让你记录测试案例和用户操作。你也可以查看不同
 推荐指数：四星
 
 
-22. *lint-cleaner-plugin*
+**lint-cleaner-plugin**
 
 删除未使用的资源,包括String字符串,颜色和尺寸。 这是一个Gradle插件，所以如何配置可以去github的源码上看。
 
@@ -249,7 +250,7 @@ Recorder可以让你记录测试案例和用户操作。你也可以查看不同
 推荐指数：四星
 
 
-23. *codota*
+**codota**
 
 该网站搜集了大量的代码，号称超过700W的代码实例。提供了chrome和as插件。
 
@@ -260,7 +261,7 @@ Recorder可以让你记录测试案例和用户操作。你也可以查看不同
 推荐指数：五星
 
 
-24. *ECTranslation*
+**ECTranslation**
 
 一个androidstudio上面的翻译插件（将英文翻译为中文）。
 
@@ -271,7 +272,7 @@ Recorder可以让你记录测试案例和用户操作。你也可以查看不同
 推荐指数：四星
 
 
-26. *TranslationPlugin*
+**TranslationPlugin**
 
 Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式安装。
 
@@ -280,7 +281,7 @@ Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式�
 推荐指数：三星
 
 
-27. *Android File Grouping Plugin*
+**Android File Grouping Plugin**
 
 该插件可自动将前缀相同的文件归类显示到同一文件目录下，但不会因此而移动文件或创建文件夹。
 
@@ -291,7 +292,7 @@ Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式�
 推荐指数： 四星
 
 
-28.*PermissionsDispatcher*
+**PermissionsDispatcher**
 
 一个针对API 23，可在Activity/Fragment中快速生成Runtime Permissions代码的插件。
 
@@ -302,7 +303,7 @@ Android Studio/IntelliJ IDEA 翻译插件,可中英互译。暂时以jar方式�
 推荐指数： 四星
 
 
-29. *Android code Generator*
+**Android code Generator**
 
 Android Studio/IntelliJ IDEA的安卓代码生成插件，帮助提高app的开发速度。可以从layout生成Activity类、Fragment类、Adapter类，从menu.xml生成m
 enu代码等。
@@ -315,7 +316,8 @@ enu代码等。
 
 推荐指数：五星
 
-30. *.ignore*
+
+**.ignore**
 
 项目中，每次add，commit的时候有可能会把Module生成的一些build文件/本地配置文件/iml文件提交上去。可以通过gitignore解决，如果你不想提交的文件，就可以在创建项目的时候将这个文件中添加即可，将一些通用的东西屏蔽掉。
 
@@ -326,7 +328,7 @@ enu代码等。
 推荐指数：四星
 
 
-31. *checkstyle-idea*
+**checkstyle-idea**
 
 CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，Javadoc，类设计等方面进行代码规范和风格的检查，你们可以遵从像Google Oracle 的Java 代码指南 ，当然也可以按照自己的规则来设置配置文件，从而有效约束你自己更好地遵循代码编写规范。
 
@@ -337,7 +339,7 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 推荐指数：四星
 
 
-32. *Android Methods Count*
+**Android Methods Count**
 
 统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K)
 
@@ -346,7 +348,7 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 推荐指数：四星
 
 
-33. *Sexy Editor*
+**Sexy Editor**
 
 设置代码性感背景图，还是比较强悍的。
 
@@ -357,7 +359,7 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 推荐指数：五星
 
 
-34. *AndroidProguardPlugin*
+**AndroidProguardPlugin**
 
 Android一键生成项目混淆代码插件，现在jetbrains还在审核只能下载进行安装了，不能通过as插件直接搜索安装。因为混淆时很多同学比较头疼的一个事情，所以给5星。
 
@@ -368,7 +370,7 @@ Android一键生成项目混淆代码插件，现在jetbrains还在审核只能�
 推荐指数：五星
 
 
-35. *Android Studio Prettify*
+**Android Studio Prettify**
 
 从布局文件一键生成对view的声明（不适用注解，形式为findviewById的方式）,还可以将代码中的字符串写在String.xml文件中。
 
@@ -379,7 +381,7 @@ Android一键生成项目混淆代码插件，现在jetbrains还在审核只能�
 推荐指数：四星
 
 
-36. *Gradle Dependencies Helper*
+**Gradle Dependencies Helper**
 
 Maven gradle依赖自动补全
 
@@ -390,7 +392,7 @@ Maven gradle依赖自动补全
 推荐指数：五星
 
 
-37. *Remove ButterKnife*
+**Remove ButterKnife**
 
 ButterKnife这个第三方库每次更新之后，绑定view的注解都会改变，从bind,到inject，再到bindview，一旦升级，就会有巨量的代码需要手动修改,所以这个插件可以快速移除，将注解代码变成findviewbyId的形式。
 
@@ -403,7 +405,7 @@ ButterKnife这个第三方库每次更新之后，绑定view的注解都会改�
 推荐指数：三星
 
 
-38. *Android DPI Calculator*
+**Android DPI Calculator**
 
 Dpi计算插件
 
@@ -414,7 +416,7 @@ Dpi计算插件
 推荐指数：五星
 
 
-39. *SingletonTest*
+**SingletonTest**
 
 快速生成单例模式的插件。单例模式的六种生成方式LazyUnSafe,LazySafe,Hungry,DoubleCheck,StaticInner,Enum(http://cantellow.iteye.com/blog/838473);插件需要从github中下载jar安装。
 
@@ -423,7 +425,7 @@ Dpi计算插件
 推荐指数：四星
 
 
-40. *Android Localizationer*
+**Android Localizationer**
 
 将项目中的 string 资源自动翻译为其他语言的 Android Studio/IntelliJ IDEA 插件。 插件下载地址：https://plugins.jetbrains.com/plugin/7629
 
@@ -432,7 +434,7 @@ Dpi计算插件
 推荐指数：四星
 
 
-41. *Material Theme UI*
+**Material Theme UI**
 
 添加Material主题到你的AS
 
@@ -443,7 +445,7 @@ Dpi计算插件
 推荐指数：五星
 
 
-42. *gradle-retrolambda*
+**gradle-retrolambda**
 
 在java6,java7中也能使用Lambda表达式。这个使用方式跟其他插件不同，使用方式请看github的说明。
 
@@ -452,7 +454,7 @@ Dpi计算插件
 推荐指数：五星
 
 
-43. *eventbus-intellij-plugin*
+**eventbus-intellij-plugin**
 
 eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有1年没维护更新了，如果有大神可以整一个就更好了，这个可以先用着。 
 
@@ -461,7 +463,7 @@ eventbus导航插件，方便快速查找，但是有2个pr没处理，已经有
 推荐指数：三星
 
 
-44. *otto-intellij-plugin*
+**otto-intellij-plugin**
 
 otto导航插件，也是很久没维护了，不过可以用。
 
@@ -470,7 +472,7 @@ otto导航插件，也是很久没维护了，不过可以用。
 推荐指数：三星
 
 
-45. *dagger-intellij-plugin*
+**dagger-intellij-plugin**
 
 dagger可视化辅助工具
 
@@ -479,7 +481,7 @@ dagger可视化辅助工具
 推荐指数：四星
 
 
-46. *Android Styler*
+**Android Styler**
 
 根据xml文件生成style文件的插件
 
@@ -490,7 +492,7 @@ dagger可视化辅助工具
 推荐指数：四星
 
 
-47. *ideavim*
+**ideavim**
 
 能让开发使用vi，大大提高开发效率。
 
@@ -501,7 +503,7 @@ dagger可视化辅助工具
 推荐指数：五星
 
 
-48. *Android Material Design Icon Generator*
+**Android Material Design Icon Generator**
 
 可以在Android项目中设置 material design样式图标(material design icons)
 
@@ -512,7 +514,7 @@ dagger可视化辅助工具
 推荐指数： 五星
 
 
-49.*Gradle Killer*
+**Gradle Killer**
 
 Gradle 卡死可以用这个插件。
 
@@ -523,7 +525,7 @@ Gradle 卡死可以用这个插件。
 推荐指数：五星
 
 
-50. *android-toolbox-plugin*
+**android-toolbox-plugin**
 
 能根据xml文件生成对应的ViewHolder类，可以是findviewbyId形式或者是ButterKnife刀形式，如果你使用ButterKnife。
 
