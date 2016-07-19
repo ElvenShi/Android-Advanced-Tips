@@ -1,7 +1,7 @@
 # Android-Advanced-Tips
 任何技艺，任何知识的学习都需要经常的翻一翻，看一看。不是每个人的记忆力都像世界记忆大师那样，有着超强的记忆力。即便如此，有些东西你也无法记住一辈子。对于一些不常接触，不常使用的知识或者技艺总归是难以记住的。最好的方式就是重复性的技艺，经常翻一翻，看一看。为此，在这里收集了一些比较优秀的技术文章。
 
-## **分类表**
+## **类别一览表**
 |     描述     |     地址     |
 |--------|--------|
 |   开发工具     |    [Android Studio相关](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20IDE/Android_Studio.md)    |
