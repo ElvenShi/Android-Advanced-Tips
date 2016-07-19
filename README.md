@@ -26,7 +26,12 @@
 7. [java之美](http://blog.csdn.net/zhangerqing?viewmode=contents)
 8. [尼古拉斯_赵四](http://blog.csdn.net/jiangwei0910410003?viewmode=contents)
 
-## ——————————————————————————
+## 轮子借鉴
+- [开源实验室作品](http://kymjs.com/works/)
+- [封装好的各类控件](http://www.23code.com/)
+- [精品样例](http://www.itlanbao.com/preview.aspx#1,0)
+
+## 其他
 *[极客导航](http://www.jikedaohang.com/)*
 
 *[Android开发实践总结](https://github.com/zeng1990java/android-practice-tips#android开发tips)*
