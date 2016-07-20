@@ -12,4 +12,5 @@
 8. [ 学会编写Android Studio插件](http://blog.csdn.net/lmj623565791/article/details/51548272)
 9. [Android Studio优秀插件](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20IDE/Android_Studio_plugin.md)
 10. [Android Studio采用gradle打包的那些事](http://jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
+11. [Android Studio国家化插件](http://blog.csdn.net/u013278099/article/details/49865177)
 
