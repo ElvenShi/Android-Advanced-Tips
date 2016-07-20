@@ -65,6 +65,11 @@
 ### MVP设计模式
 - [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01)
 
+### Android Data Binding
+- [Android DataBinding：再见Presenter，你好ViewModel](http://www.devtf.cn/?p=955)
+- [Data Binding事例演示](https://github.com/sys1yagi/data-binding-sample)
+- [巧妙、灵活的databinding改造库](https://github.com/tianzhijiexian/DBinding)
+
 ### 崩溃处理
 - [Android平台的崩溃捕获机制及实现](http://geek.csdn.net/news/detail/50839)
 
