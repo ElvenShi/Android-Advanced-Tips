@@ -1,5 +1,10 @@
-# Android-Advanced-Tips
-任何技艺，任何知识的学习都需要经常的翻一翻，看一看。不是每个人的记忆力都像世界记忆大师那样，有着超强的记忆力。即便如此，有些东西你也无法记住一辈子。对于一些不常接触，不常使用的知识或者技艺总归是难以记住的。最好的方式就是重复性的技艺，经常翻一翻，看一看。为此，在这里收集了一些比较优秀的技术文章。
+# Android-图片加载库
 
-# **目录**
+
+1. [Glide Google官方推荐的图片加载库](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+2. [Picasso 图片加载库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0731/1639.html)
+3. [来自Facebook的图片加载库Fresco](https://github.com/hehonghui/android-tech-frontier/tree/master/others/FaceBook%E6%8E%A8%E5%87%BA%E7%9A%84Android%E5%9B%BE%E7%89%87%E5%8A%A0%E8%BD%BD%E5%BA%93-Fresco)
+4. [开源选型之 Android 三大图片缓存原理、特性对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400056342&idx=1&sn=894325d70f16a28bfe8d6a4da31ec304&scene=0#rd)
+5. [ImageLoader Git地址](https://github.com/nostra13/Android-Universal-Image-Loader)
+6. [ImageLoader](http://blog.csdn.net/xiaanming/article/details/26810303/)
 
