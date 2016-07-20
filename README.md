@@ -8,7 +8,7 @@
 |   Android基础     |   [Android基础系列](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20Base/Android_Base.md)     |
 | Android进阶 | [Android进阶之路](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20Advanced/Android_Advanced.md) |
 | Android框架 | [Android框架](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20Framework/Android_Framework.md) |
-| Android图片加载 | [Android图片加载](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20ImageLoager/Android_ImageLoader.md) |
+| Android图片加载库 | [Android图片加载库](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20ImageLoager/Android_ImageLoader.md) |
 | Android网络 | [Android网络相关](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20network/Android_network.md) |
 | Android插件 | [Android插件相关](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20Plugin/Android_Plugin.md) |
 | EventBus | [EventBus](https://github.com/ElvenShi/Android-Advanced-Tips/blob/master/Android%20Technical%20articles/Android%20EventBus/Android_EventBus.md) |
