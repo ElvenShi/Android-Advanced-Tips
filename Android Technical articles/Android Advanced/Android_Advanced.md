@@ -62,6 +62,10 @@
 - [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Android性能优化之内存篇](http://hukai.me/android-performance-memory/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+### 数据库相关
+1. NoSql数据库
+- [SnappyDB:A key-value database for Android](https://github.com/nhachicha/SnappyDB)
+
 ### MVP设计模式
 - [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01)
 
