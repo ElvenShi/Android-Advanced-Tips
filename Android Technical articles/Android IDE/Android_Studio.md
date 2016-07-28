@@ -24,3 +24,5 @@
 - [第五篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
 - [第六篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
+** Gradle for Android **
+- [Gradle for Android](https://segmentfault.com/a/1190000004229002)
