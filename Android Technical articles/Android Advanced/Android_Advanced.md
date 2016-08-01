@@ -62,6 +62,10 @@
 - [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Android性能优化之内存篇](http://hukai.me/android-performance-memory/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+### DownloadManager
+- [Android开发：使用DownloadManager在service中下载并安装apk](http://www.jianshu.com/p/1489fcbd2401)
+- [Android 中 DownLoadManager 实现文件下载](http://www.open-open.com/lib/view/open1428024407365.html)
+
 ### 数据库相关
 1. NoSql数据库
 - [SnappyDB:A key-value database for Android](https://github.com/nhachicha/SnappyDB)
