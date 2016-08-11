@@ -43,7 +43,7 @@
 ### Android UI相关
 1. [ListView介绍与使用](http://blog.csdn.net/loveyaozu/article/details/51085777)
 2. [ListView去掉点击背景](http://blog.csdn.net/loveyaozu/article/details/51132235)
-3. [通用型adapter](http://blog.csdn.net/loveyaozu/article/details/51940119)
+3. [通用型adapter](http://blog.csdn.net/loveyaozu/article/details/51940119)/[各类通用型adapter示例](https://github.com/hongyangAndroid/baseAdapter)
 4. [SwipeRefreshLayout](http://blog.csdn.net/loveyaozu/article/details/51131556)
 5. [底部导航](http://blog.csdn.net/loveyaozu/article/details/51149467)
 6. [PopupWindow](http://blog.csdn.net/loveyaozu/article/details/51150229)
@@ -52,6 +52,7 @@
 9. [View坐标分析汇总](http://blog.csdn.net/mr_immortalz/article/details/51168278)
 
 ### ViewPager
+- [ViewPager示例](http://blog.csdn.net/loveyaozu/article/details/51149467)
 - [禁止ViewPager的左右滑动事件](http://blog.csdn.net/loveyaozu/article/details/51889591)
 
 ### Drawable
