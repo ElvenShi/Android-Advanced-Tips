@@ -33,6 +33,12 @@
 - [封装好的各类控件](http://www.23code.com/)
 - [精品样例](http://www.itlanbao.com/preview.aspx#1,0)
 
+## Android面试相关
+- [Android 面试精华题目总结](http://blog.csdn.net/lmj623565791/article/details/24015867#comments)
+- [android面试集锦](http://blog.csdn.net/superjunjin/article/category/1192401)
+- [常见Android面试题及答案](http://www.xuebuyuan.com/2018214.html)
+
+
 ## 其他
 *[极客导航](http://www.jikedaohang.com/)*
 
