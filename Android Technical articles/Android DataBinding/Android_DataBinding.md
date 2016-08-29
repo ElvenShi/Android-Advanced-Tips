@@ -6,5 +6,6 @@ George 是一位在谷歌 Android UI 工具团队的软件工程师，主要致�
 
 # **目录**
 
+- [DataBinding开发指南](https://segmentfault.com/a/1190000002876984)
 - [ Android DataBinding介绍](http://blog.csdn.net/fancylovejava/article/details/50821616)
 - [完全掌握Android Data Binding](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0603/2992.html)

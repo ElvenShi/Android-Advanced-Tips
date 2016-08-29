@@ -32,6 +32,8 @@
 - [开源实验室作品](http://kymjs.com/works/)
 - [封装好的各类控件](http://www.23code.com/)
 - [精品样例](http://www.itlanbao.com/preview.aspx#1,0)
+- [XhsEmoticonsKeyboard表情键盘](https://github.com/w446108264/XhsEmoticonsKeyboard)
+- [AndroidEmoji](https://github.com/w446108264/AndroidEmoji)
 
 ## Android面试相关
 - [Android 面试精华题目总结](http://blog.csdn.net/lmj623565791/article/details/24015867#comments)
