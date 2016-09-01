@@ -34,6 +34,7 @@
 - [精品样例](http://www.itlanbao.com/preview.aspx#1,0)
 - [XhsEmoticonsKeyboard表情键盘](https://github.com/w446108264/XhsEmoticonsKeyboard)
 - [AndroidEmoji](https://github.com/w446108264/AndroidEmoji)
+- [各类精美UI](awesome-android-ui)
 
 ## Android面试相关
 - [Android 面试精华题目总结](http://blog.csdn.net/lmj623565791/article/details/24015867#comments)
