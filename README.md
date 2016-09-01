@@ -27,6 +27,8 @@
 7. [java之美](http://blog.csdn.net/zhangerqing?viewmode=contents)
 8. [尼古拉斯_赵四](http://blog.csdn.net/jiangwei0910410003?viewmode=contents)
 9. [Android进阶](http://www.jianshu.com/collection/eabd59e64a0f)
+10. [Android开发(推荐)](http://www.jianshu.com/collection/0dc880a2c73c)
+11. [我的分享](http://toutiao.io/u/226218)
 
 ## 轮子借鉴
 - [开源实验室作品](http://kymjs.com/works/)
