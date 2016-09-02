@@ -29,6 +29,7 @@
 9. [Android进阶](http://www.jianshu.com/collection/eabd59e64a0f)
 10. [Android开发(推荐)](http://www.jianshu.com/collection/0dc880a2c73c)
 11. [我的分享](http://toutiao.io/u/226218)
+12. [Android知识](http://www.jianshu.com/collection/3fde3b545a35)
 
 ## 轮子借鉴
 - [开源实验室作品](http://kymjs.com/works/)
