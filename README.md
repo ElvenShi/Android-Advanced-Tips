@@ -28,11 +28,11 @@
 8. [尼古拉斯_赵四](http://blog.csdn.net/jiangwei0910410003?viewmode=contents)
 
 
-1. [ ** Android进阶 ** ](http://www.jianshu.com/collection/eabd59e64a0f)
-2. [ ** Android开发(推荐) ** ](http://www.jianshu.com/collection/0dc880a2c73c)
-3. [ ** 我的分享 ** ](http://toutiao.io/u/226218)
-4. [ ** Android知识 ** ](http://www.jianshu.com/collection/3fde3b545a35)
-5. [ ** Android基础知识 ** ](http://www.jianshu.com/collection/fd95137b490a)
+- ** [Android进阶](http://www.jianshu.com/collection/eabd59e64a0f) **
+- ** [Android开发(推荐)](http://www.jianshu.com/collection/0dc880a2c73c) **
+- ** [我的分享 ](http://toutiao.io/u/226218) **
+- ** [Android知识](http://www.jianshu.com/collection/3fde3b545a35) **
+- ** [Android基础知识](http://www.jianshu.com/collection/fd95137b490a) **
 
 ## 轮子借鉴
 - [开源实验室作品](http://kymjs.com/works/)
