@@ -48,8 +48,9 @@
 - [android面试集锦](http://blog.csdn.net/superjunjin/article/category/1192401)
 - [常见Android面试题及答案](http://www.xuebuyuan.com/2018214.html)
 
-** 推荐以下关于Android面试相关的博客 **
+##### 推荐以下关于Android面试相关的博客
 - [笔试&&面试经验](http://www.jianshu.com/collection/21da9eb13cae)
+- [安卓Android面试题](http://www.jianshu.com/collection/a72764a50f75)
 
 ## 其他
 *[极客导航](http://www.jikedaohang.com/)*
