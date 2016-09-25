@@ -44,7 +44,7 @@
 - [各类精美UI](awesome-android-ui)
 
 ## 其他
-*[极客导航](http://www.jikedaohang.com/)*
+**[极客导航](http://www.jikedaohang.com/)**
 
-*[Android开发实践总结](https://github.com/zeng1990java/android-practice-tips#android开发tips)*
-* [andriod 资源](http://www.jianshu.com/p/913c2efec3ec)*
+**[Android开发实践总结](https://github.com/zeng1990java/android-practice-tips#android开发tips)**
+** [andriod 资源](http://www.jianshu.com/p/913c2efec3ec)**
